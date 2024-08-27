@@ -105,10 +105,10 @@
     {
       "id": "8",
       "name": "Organic Bell Peppers",
-      "preview": "https://example.com/images/organic-bell-peppers.jpg",
+      "preview": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTchLFQK0M9l6w5TFDS_UzG_pzFnzdMKl514PS8Eb4m0w77NNK6V1vnMQ5X5uEHAei9frbSXxPl0BMnPVOsFEYYkidZ0AIgzw",
       "photos": [
-        "https://example.com/images/organic-bell-peppers-1.jpg",
-        "https://example.com/images/organic-bell-peppers-2.jpg"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzlm1BekVGn0S-wdCP6k-OLizZynM3ONm0rr6sF4zkneS3LxlnpZr2ko5E8JuT40VqMiVXjGqzxRKsEHymHBaRcYQ0Y7mtg_-4UrunB_3Fa-SzQWWQ06at",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSpbvXaxKNX-VVeSG9gRGk4IyX9iEJsI9PHOVBciMaEHVQKulNmRiuhSjFmI7bJncHtjvO1kovToWdHftIfe2alCd0h7wYd68AwXQx0OWAj6KtnsfKdJfSlv-0"
       ],
       "description": "Colorful and crunchy bell peppers, rich in vitamins.",
       "size": [1, 1, 1, 1, 1],
@@ -147,11 +147,11 @@
   {
     "id": "11",
     "name": "Eggs - Free Range (Dozen)",
-    "preview": "https://example.com/images/eggs.jpg",
+    "preview": "https://www.bigbasket.com/media/uploads/p/l/150502_6-fresho-farm-eggs-table-tray-medium-antibiotic-residue-free.jpg",
     "photos": [
-      "https://example.com/images/eggs1.jpg",
-      "https://example.com/images/eggs2.jpg",
-      "https://example.com/images/eggs3.jpg"
+      "https://www.bigbasket.com/media/uploads/p/l/150502-2_1-fresho-farm-eggs-table-tray-medium-antibiotic-residue-free.jpg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRqniBfa8EQkGZgRxJk6CL7hqOwdzn2R4-oKk-bf9pai_vIGCnP8gbK0bkxS4fMqcQw4iUiOKe98EZ9-970tPzdP_R-BcZywMsVEKPOzddZQk19_cLw6DGr&usqp=CAE",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT_6cqQzLJCRt3fMn2YNWYwuDB2QyVBDUblGbi4io61CJmvPCsj76UWUESeNjplgO7ebPnVOKNcPtJJtyoPzmhCU9hrgpi4eQ&usqp=CAE"
     ],
     "description": "Fresh free-range eggs, a dozen per pack.",
     "size": [1, 1, 1, 1, 1],
@@ -160,13 +160,13 @@
     "price": 350
   },
   {
-    "id": "13",
+    "id": "12",
     "name": "Brown Eggs (Dozen)",
-    "preview": "https://example.com/images/brown-eggs.jpg",
+    "preview": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ3VrXmkswHuEt1fNxEiquvTdKIFi9rV9uXC0gcmLF7IPuOXYvaf9uiyo3DUDJVmbJBuhET-Pcj579sqekkBu5zizv21OjU_BTsa7oSrh8U3iK3dxWKvhy14A&usqp=CAE",
     "photos": [
-      "https://example.com/images/brown-eggs1.jpg",
-      "https://example.com/images/brown-eggs2.jpg",
-      "https://example.com/images/brown-eggs3.jpg"
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRp44ba5BNTjOsw1Az0wmNiVmSM66rTk_oMZSM_LYA5oRT05hvD5bPDz9i7upzAjrwa8hyaWyJ-GCflIjtNHatM1NcRoHqcu5bUNpxnW5jaWCnteP8IqjLcJQ&usqp=CAE",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLCtXn29DmN5rsmrxznBG3rU26W6zGxduCFcqRmwA8e-hk8QI-kPlkHB3EOgnDgmotiG70RsDOR6tp5SV68nkbIDf11B3_8A&usqp=CAE",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT9duQ4b1Kmckk4k3mFDvTKTVAgrjfzqgZL9sAyRfm-H_3hRw2OiWXT6jY5WYClrGSAHQHpjpm6exQrmsHVkrjASRgbqLU4dST0rECtPs4&usqp=CAE"
     ],
     "description": "Brown eggs from pasture-raised hens, a dozen per pack.",
     "size": [1, 1, 1, 1, 1],
@@ -175,13 +175,13 @@
     "price": 400
   },
   {
-    "id": "21",
+    "id": "13",
     "name": "Eggplant - Organic (500g)",
-    "preview": "https://example.com/images/eggplant.jpg",
+    "preview": "https://rukminim2.flixcart.com/image/416/416/l1l1rww0/plant-seed/1/g/m/200-brinj-1904-200-long-purple-ugra-original-imagd3jeh7humbxp.jpeg?q=70&crop=false",
     "photos": [
-      "https://example.com/images/eggplant1.jpg",
-      "https://example.com/images/eggplant2.jpg",
-      "https://example.com/images/eggplant3.jpg"
+      "https://www.marthastewart.com/thmb/_TT1pzEr0kcP05QvL7PIg-cxTMM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/eggplant-glossary-085-d110486-0515_vert-horiz-1222-2000-2c46abcbfade45d8a7a4670d85b6b690.jpg",
+      "https://media.istockphoto.com/id/510515443/photo/eggplant-isolated-on-white.jpg?s=612x612&w=0&k=20&c=AfRLY-0SanZ7Xo1Vdgpdv--PmAbKOdPUiLtvw4X8YJY=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU8zoM-UyBz1o7Pw37RBIBczHa8SMg1ol3ow&s"
     ],
     "description": "Fresh organic eggplants, 500g pack.",
     "size": [1, 1, 1, 1, 1],
@@ -190,123 +190,274 @@
     "price": 150
   },
   {
-    "id": "22",
-    "name": "Carrots - Organic (1kg)",
-    "preview": "https://example.com/images/carrots.jpg",
-    "photos": [
-      "https://example.com/images/carrots1.jpg",
-      "https://example.com/images/carrots2.jpg",
-      "https://example.com/images/carrots3.jpg"
-    ],
-    "description": "Crunchy organic carrots, 1kg pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "vegetables",
-    "brand": "EcoFarm",
-    "price": 200
-  },
-  {
-    "id": "23",
-    "name": "Spinach - Organic (500g)",
-    "preview": "https://example.com/images/spinach.jpg",
-    "photos": [
-      "https://example.com/images/spinach1.jpg",
-      "https://example.com/images/spinach2.jpg",
-      "https://example.com/images/spinach3.jpg"
-    ],
-    "description": "Fresh organic spinach, 500g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "vegetables",
-    "brand": "Green Valley",
-    "price": 180
-  },
-  {
-    "id": "32",
-    "name": "Almonds (200g)",
+    "id": "14",
+    "name": "Almonds",
     "preview": "https://www.ofi.com/content/dam/olamofi/products-and-ingredients/nuts/nuts-images-webp/almonds-new.webp",
     "photos": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hTgKWhGTnbtQLMuNFvtqgF9ax3cZStJzWJDqGh0dUVRD6gfQ8D-0lis4zAKgcnNBWN8&usqp=CAU",
       "https://chefsmandala.com/wp-content/uploads/2018/02/Almond.jpg",
       "https://5.imimg.com/data5/SELLER/Default/2023/1/ZN/KZ/GM/31056044/raw-fresh-almonds.jpg"
     ],
-    "description": "Raw almonds, 200g pack.",
+    "description": "Raw almonds",
     "size": [1, 1, 1, 1, 1],
     "category": "nuts",
     "brand": "Nutty Delight",
     "price": 350
   },
   {
-    "id": "33",
-    "name": "Cashews (200g)",
+    "id": "15",
+    "name": "Cashews",
     "preview": "https://mahajanstore.com/wp-content/uploads/2022/12/Cashewnuts-Plian-1.jpg",
     "photos": [
       "https://www.activearthfood.com.au/cdn/shop/products/cashew-nuts.jpg?v=1593169570",
       "https://static.toiimg.com/thumb/msid-103880147,width-960,height-1280,resizemode-6.cms",
       "https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/10/cashew-nut-nuts-bowl-1296x728-header-1296x728.jpg?w=1155&h=1528"
     ],
-    "description": "Crunchy cashews, 200g pack.",
+    "description": "Crunchy cashews",
     "size": [1, 1, 1, 1, 1],
     "category": "nuts",
     "brand": "Nutty Delight",
     "price": 400
   },
   {
-    "id": "34",
-    "name": "Walnuts (200g)",
+    "id": "16",
+    "name": "Walnuts",
     "preview": "https://mdpiblog.wordpress.sciforum.net/wp-content/uploads/sites/4/2023/01/walnuts.jpg",
     "photos": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFgTBjNlDxjP5064ohXsGJ3ncVORiQ0X6p5wv73Sro2ekleZmDxTtlYggGy-pEffygIn0&usqp=CAU",
       "https://bulknbits.ca/cdn/shop/products/wallnut-shell.jpg?v=1607884032",
       "https://media.post.rvohealth.io/wp-content/uploads/2020/08/AN378-Walnuts-Hands-732x549-thumb-732x549.jpg"
     ],
-    "description": "Delicious walnuts, 200g pack.",
+    "description": "Delicious walnuts",
     "size": [1, 1, 1, 1, 1],
     "category": "nuts",
     "brand": "Nutty Delight",
     "price": 350
   },
   {
-    "id": "35",
-    "name": "Pistachios (200g)",
+    "id": "17",
+    "name": "Pistachios",
     "preview": "https://satvikk.com/wp-content/uploads/2021/12/Roasted-Salted-Pistachios.jpg",
     "photos": [
       "https://cdn.britannica.com/76/196076-050-6138D55B/pistachios.jpg",
       "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/11/benefits_pistachios_GettyImages683864285_Header-1024x575.jpg",
       "https://cdn.ecommercedns.uk/files/2/236802/5/32647595/pistachio-nuts-without-shells.jpg"
     ],
-    "description": "Salted pistachios, 200g pack.",
+    "description": "Salted pistachios",
     "size": [1, 1, 1, 1, 1],
     "category": "nuts",
     "brand": "Nutty Delight",
     "price": 380
   },
   {
-    "id": "37",
-    "name": "Black Pepper (100g)",
+    "id": "18",
+    "name": "Black Pepper",
     "preview": "https://5.imimg.com/data5/SELLER/Default/2022/11/PE/NF/PN/180152799/black-papper-500x500.jpg",
     "photos": [
       "https://elthecook.co.in/cdn/shop/products/IMG-3570.jpg?v=1602843781&width=1445",
       "https://assets.clevelandclinic.org/transform/65ddb397-7835-4b21-b30b-d123be3cb5c8/blackPepper-185067429-770x533-1_jpg",
       "https://cdn2.stylecraze.com/wp-content/uploads/2013/06/360_21-Amazing-Benefits-Of-Black-Pepper-Kali-Mirch-For-Skin-Hair-And-Health_iStock-469858939.jpg_1.jpg.webp"
     ],
-    "description": "Premium black pepper, 100g pack.",
+    "description": "Premium black pepper",
     "size": [1, 1, 1, 1, 1],
     "category": "spices",
     "brand": "Spice World",
     "price": 180
+  }, {
+    "id": "19",
+    "name": "Hen ",
+    "preview": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSeEHaMCAd3IHyXBTPYWcytHPVnwTSm8C6I1j-cJOfS3OAOdrKQxGgzYlHC1cr5CY-ayup6_6vecz9qW0vUrs6MEz0DATbXFZdZQ-ZE_wiasNyUE7XK7W8FAQ&usqp=CAE",
+    "photos": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT_i4Z8fLKQuG8ocJ8Pq6t0jMsqIHls8aYvhXVMhCT__s3_YjATolsoSbErOxerKxZ309Py5KcVdl3N2Wbw-XFNCUwKdedZ1DGCKGIwzTM&usqp=CAE",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjIiZWEoKn-rxMDYsLa9XtvwxL2BnLyYRsaA&s"
+    ],
+    "description": "Fresh whole hen",
+    "size": [1],
+    "category": "meat",
+    "brand": "Farm Fresh",
+    "price": 450
   },
   {
-    "id": "39",
-    "name": "Paprika (100g)",
-    "preview": "https://example.com/images/paprika.jpg",
+    "id": "20",
+    "name": "Cock",
+    "preview": "https://www.healthbenefitstimes.com/glossary/wp-content/uploads/2020/09/Cock.jpg",
     "photos": [
-      "https://example.com/images/paprika1.jpg",
-      "https://example.com/images/paprika2.jpg",
-      "https://example.com/images/paprika3.jpg"
+      "https://images.fineartamerica.com/images-medium-large-5/rhode-island-red-cock-portrait-arletta-cwalina.jpg",
+      "https://i.pinimg.com/564x/76/0c/28/760c28c7ae5eb60a137133bd7972f303.jpg"
     ],
-    "description": "Sweet paprika, 100g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "spices",
-    "brand": "Spice World",
-    "price": 170
-  }
+    "description": "Tender clock meat",
+    "size": [1],
+    "category": "meat",
+    "brand": "Prime Cuts",
+    "price": 600
+  },
+  {
+    "id": "21",
+    "name": "Goat",
+    "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsMk2aOzVP_WJCjUA8DvwKx9Orma9uGn2qWA&s",
+    "photos": [
+      "https://tiimg.tistatic.com/fp/1/007/534/20-25-kg-brown-color-high-nutritional-properties-live-goat-604.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnyX5kUSi2jwWoH4V9xbv0ze8vdk5TbiEuwjrtYseHeh_KYrO_uXF9riv-rGFfo033PE0&usqp=CAU"
+    ],
+    "description": "Whole goat meat",
+    "size": [2],
+    "category": "meat",
+    "brand": "Fresh Meat Co.",
+    "price": 1200
+  },
+  {
+    "id": "22",
+    "name": "Sheep",
+    "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1tl8wwiWUOYKIjZF7RYeVYT7aixcJxGAoQ&s",
+    "photos": [
+      "https://static.wikia.nocookie.net/animals/images/b/ba/Sheep.jpg/revision/latest/scale-to-width-down/250?cb=20190209033122",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMw0vDwWdWxqsb2Q4CBAq7awltqc4onsz8i-05Bx1GM9Robl6Ud72Fb5p9gcnmEgqIajA&usqp=CAU"
+    ],
+    "description": "Whole sheep meat",
+    "size": [2],
+    "category": "meat",
+    "brand": "Heritage Farms",
+    "price": 1500
+  },
+  {
+    "id": "23",
+    "name": "Tilapia",
+    "preview": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQx2DIxuGJU7HfLFUomfvLlvSQ3Kubt0n6FfudglToEZHE8h7KSxy5BiSDpnhFkWYevWNy8ftpZdfvoPGX7tVBdPaTOdncK3rnmHbzuUy56jFKH-ikfNt0Z&usqp=CAE",
+    "photos": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRmb2tKNXpFv6VDDgNtgyLl_4gOkGH2dad-EbMlWSLKdVvCWTHOih_2LuoDdGe9aV3q-83lL9SpOPEldFf0ZDOzpBpQQRTPblhsX6vJmMCE2biNonmumLUt&usqp=CAE",
+      "https://www.google.com/search?sca_esv=136c67f42ee830f9&sca_upv=1&rlz=1C1CHZN_enIN1087IN1087&q=tilapia&tbm=shop&source=lnms&fbs=AEQNm0DPvcmG_nCbmwtBO9j6YBzM68ZanC7g01Skprhw5JoufVCiMv-hxC44jt6JduRQysBab-bgQXjPraaWFXMvOy8Kr1OAG3K-aj3De4zf3-LxKtkBtWaSCp743evHzhY6J0o0m4WgE7o4EXziaa7Om7HxdkS6ffdz4EGChZHTg9eHl028qnOkPLZoNpOaDztbujidA9Zd2m3nrrQVjLrBKSqBBGvgCw&ved=1t:200715&ictx=111&biw=1536&bih=730&dpr=1.25#spd=4246515173231914184"
+    ],
+    "description": "Fresh tilapia fish",
+    "size": [0.5],
+    "category": "fishes",
+    "brand": "Aqua Fresh",
+    "price": 300
+  },
+  {
+    "id": "24",
+    "name": "Catfish",
+    "preview": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTVr-WClxir37CNNi60d18XCKPsmakpUGoX-oGJ8a7iWNTTGrpb3clPyQUB9KTMQHrHIGPnqaGMn4ySYJ_JtrSOzCJ94FSjIDv8NZUIhMovDPgzKNVEYbPA&usqp=CAE",
+    "photos": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTlDInz6UjN9VDKXk6M33fWdXVklzMYaTejYLhNC8OuS1iy6_tm2nXJTgbCgdKDqrT3d7qKpNMhxjdOwpcG0t_37MYOKEwA4t6ZoRBM3vPJnNJjuY__mSteXQ&usqp=CAE",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSlyYeV9HiHrL7x2VEYbdElSQaxjmhoKwHkb5KW-aamBr_J0PUeeu9HKkeuI2qxTqNKkhutRCstiiRlZX5-o7x8Aq4fnieDEy89qUYLIZ8&usqp=CAE"
+    ],
+    "description": "Farm-raised catfish",
+    "size": [1],
+    "category": "fishes",
+    "brand": "Blue Waters",
+    "price": 450
+  },
+  {
+    "id": "25",
+    "name": "Trout",
+    "preview": "https://www.wildtrout.org/assets/files/about_trout/_640xAUTO_crop_center-center_none/Denise's%20Eden%20fish.jpg",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO9oEpWK685we37sFV0kY-oZzzQGUXZprvTqzjIMil5SGjuRVCKftB80EP30owpsKF_UA&usqp=CAU",
+      "https://www.wildtrout.org/assets/files/about_trout/_640xAUTO_crop_center-center_none/PP-fish-2.jpg"
+    ],
+    "description": "Freshwater trout",
+    "size": [1],
+    "category": "fishes",
+    "brand": "Streamline Fisheries",
+    "price": 500
+  },
+  {
+    "id": "26",
+    "name": "Sunflower Seeds",
+    "preview": "https://m.media-amazon.com/images/I/71SGRh+9wML.jpg",
+    "photos": [
+      "https://media.post.rvohealth.io/wp-content/uploads/2020/06/sunflower-seeds-1200x628-facebook-1200x628.jpg",
+      "https://www.eatingwell.com/thmb/q5Ej3AulH6iP3wDG60BOJ8Xanhg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sunflower-seeds-square-a86a13fc532d4947a9ee580a97c77285.jpg"
+    ],
+    "description": "High-quality sunflower seeds, 500g pack.",
+    "size": [0.5],
+    "category": "oilseeds",
+    "brand": "Harvest Gold",
+    "price": 200
+  },
+  {
+    "id": "27",
+    "name": "Sesame Seeds",
+    "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30E9Bv1Y8zyof1wP7fXg66d-ZMh9LnoLEbg&s",
+    "photos": [
+      "https://tiimg.tistatic.com/fp/1/008/417/99-pure-edible-natural-sesame-seed-with-12-months-shelf-life-265.jpg",
+      "https://cdn.apartmenttherapy.info/image/upload/v1558681181/k/archive/8eb5de90428228714361ad8b1149cdf52e0b7fc7.jpg"
+    ],
+    "description": "Premium sesame seeds",
+    "size": [0.2],
+    "category": "oilseeds",
+    "brand": "Nature's Bounty",
+    "price": 150
+  },
+  {
+    "id": "28",
+    "name": "Flaxseeds",
+    "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKFwEanEEl90JT9uSdJIWbQ8ZhUt9_ISIYIQ&s",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2NaKhIa_rErAH--xNjlNu4tIqj7kE5HWTXB3tnHth44lYxbL3oDxMquFfujBOQoOMMzE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi3x8dN4FFv6090dI16BRZU2VS4HUBhAi9g&s"
+    ],
+    "description": "Nutrient-rich flaxseeds",
+    "size": [0.25],
+    "category": "oilseeds",
+    "brand": "Wellness Seeds",
+    "price": 180
+  },
+  {
+    "id": "29",
+    "name": "Pumpkin Seeds",
+    "preview": "https://images.immediate.co.uk/production/volatile/sites/30/2023/03/Bowl-of-pumpkin-seeds-b4a5510.jpg?quality=90&resize=440,400",
+    "photos": [
+      "https://kesarbaug.in/wp-content/uploads/2022/11/Pumpkin-seeds.jpg",
+      "https://5.imimg.com/data5/CM/WB/ES/SELLER-53761119/pumpkin-seeds-500x500.jpg"
+    ],
+    "description": "High-quality pumpkin seeds",
+    "size": [0.3],
+    "category": "oilseeds",
+    "brand": "NutriGold",
+    "price": 220
+  },
+    {
+      "id": "30",
+      "name": "Organic Turmeric Root",
+      "preview": "https://5.imimg.com/data5/ANDROID/Default/2021/8/BF/QY/MN/71804095/product-jpeg-500x500.jpeg",
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFxOeRLt35lSuWZGMStUdXS__fvDggbUW3Q&s",
+        "https://organic.ng/wp-content/uploads/2021/12/turmeric-root.jpg"
+      ],
+      "description": "Fresh organic turmeric root, perfect for grating or juicing, 250g pack.",
+      "size": [0.25],
+      "category": "spices",
+      "brand": "FarmFresh",
+      "price": 200
+    },
+    {
+      "id": "31",
+      "name": "Cinnamon Sticks",
+      "preview": "https://driftbasket.com/wp-content/uploads/2022/12/9161fc1e-2ecd-46b0-97d7-21d32a9a7f2c.jpg",
+      "photos": [
+        "https://img3.exportersindia.com/product_images/bc-full/2023/5/10745599/cinnamon-sticks-1684385225-6899105.jpeg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKB3W-fnTHP8v6MQHYGc07zUtMBJdfNt0C1g&s"
+      ],
+      "description": "High-quality whole cinnamon sticks, ideal for a variety of dishes",
+      "size": [0.1],
+      "category": "spices",
+      "brand": "FarmFresh",
+      "price": 250
+    },
+    {
+      "id": "32",
+      "name": "Fresh Garlic Bulbs",
+      "preview": "https://m.media-amazon.com/images/I/71OuWVJpp5L.jpg",
+      "photos": [
+        "https://images.squarespace-cdn.com/content/v1/611c48d97aac4e4796d12f67/9efa41f1-26a5-4807-99c2-01db6c4e5249/2.CausesofGarlicPoisoninginDogs-1.jpg",
+        "https://example.com/garlic-bulbs-2.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQsiAa1NQ96shwb3VE1XYsodNE9ubLTwdvQ&s"
+      ],
+      "description": "Organic garlic bulbs, perfect for cooking or preserving, 500g pack.",
+      "size": [0.5],
+      "category": "spices",
+      "brand": "FarmFresh",
+      "price": 180
+    }  
 ]

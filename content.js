@@ -90,7 +90,7 @@ httpRequest.onreadystatechange = function() {
       } else if (category === "spices") {
           console.log(item);
           containerSpices.appendChild(dynamicCategorySection(item));
-      } else if (category === "oil") {
+      } else if (category === "oilseeds") {
           console.log(item);
           containerOil.appendChild(dynamicCategorySection(item));
       } else if (category === "cereals") {

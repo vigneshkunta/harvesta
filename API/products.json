@@ -90,10 +90,11 @@
     {
       "id": "7",
       "name": "Fresh Spinach",
-      "preview": "https://example.com/images/fresh-spinach.jpg",
+      "preview": "https://5.imimg.com/data5/EJ/YW/TB/SELLER-9636453/spinach-leaves-500x500.jpg",
       "photos": [
-        "https://example.com/images/fresh-spinach-1.jpg",
-        "https://example.com/images/fresh-spinach-2.jpg"
+        "https://5.imimg.com/data5/SELLER/Default/2021/5/UM/SS/YI/69364570/atyrpyqoxdotzmegu8hmwe-250x250.jpg",
+        "https://media.istockphoto.com/id/1006196472/photo/bunch-of-spinach-leaves-on-isolated-white-background.jpg?s=612x612&w=0&k=20&c=OAIswtUC1aMNDwtMEFIaZv6fSIftsoAV-cgJZSGLJ7A=",
+        "https://www.grocerslocal.in/media/catalog/product/cache/2c7666b95835e0d8816b2ed2e9c41efb/i/m/img-9914_1.jpg"
       ],
       "description": "Green and nutritious spinach, perfect for salads and cooking.",
       "size": [1, 1, 1, 1, 1],
@@ -118,10 +119,10 @@
     {
       "id": "9",
       "name": "Fresh Broccoli",
-      "preview": "https://example.com/images/fresh-broccoli.jpg",
+      "preview": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2Fd852987f86aeae8b65926f9e7a260c28285ea744",
       "photos": [
-        "https://example.com/images/fresh-broccoli-1.jpg",
-        "https://example.com/images/fresh-broccoli-2.jpg"
+        "https://c.ndtvimg.com/2018-09/5dtqabb8_broccoli_625x300_14_September_18.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+        "https://nisargafoods.com/image/cache/catalog/my%20uploads(products)/broccoli2-800x800.jpg"
       ],
       "description": "Nutrient-dense broccoli, ideal for a healthy diet.",
       "size": [1, 1, 1, 1, 1],
@@ -132,10 +133,10 @@
     {
       "id": "10",
       "name": "Organic Potatoes",
-      "preview": "https://example.com/images/organic-potatoes.jpg",
+      "preview": "https://5.imimg.com/data5/EQ/GY/MY-25852890/organic-potato.jpg",
       "photos": [
-        "https://example.com/images/organic-potatoes-1.jpg",
-        "https://example.com/images/organic-potatoes-2.jpg"
+        "https://adidevgroup.com/img/potato4.jpg",
+        "https://farzana.ae/images/thumbs/0008607_organic-potato_500.jpeg"
       ],
       "description": "Versatile organic potatoes, perfect for various dishes.",
       "size": [1, 1, 1, 1, 1],
@@ -461,11 +462,11 @@
   {
     "id": "32",
     "name": "Almonds (200g)",
-    "preview": "https://example.com/images/almonds.jpg",
+    "preview": "https://www.ofi.com/content/dam/olamofi/products-and-ingredients/nuts/nuts-images-webp/almonds-new.webp",
     "photos": [
-      "https://example.com/images/almonds1.jpg",
-      "https://example.com/images/almonds2.jpg",
-      "https://example.com/images/almonds3.jpg"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hTgKWhGTnbtQLMuNFvtqgF9ax3cZStJzWJDqGh0dUVRD6gfQ8D-0lis4zAKgcnNBWN8&usqp=CAU",
+      "https://chefsmandala.com/wp-content/uploads/2018/02/Almond.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2023/1/ZN/KZ/GM/31056044/raw-fresh-almonds.jpg"
     ],
     "description": "Raw almonds, 200g pack.",
     "size": [1, 1, 1, 1, 1],
@@ -476,11 +477,11 @@
   {
     "id": "33",
     "name": "Cashews (200g)",
-    "preview": "https://example.com/images/cashews.jpg",
+    "preview": "https://mahajanstore.com/wp-content/uploads/2022/12/Cashewnuts-Plian-1.jpg",
     "photos": [
-      "https://example.com/images/cashews1.jpg",
-      "https://example.com/images/cashews2.jpg",
-      "https://example.com/images/cashews3.jpg"
+      "https://www.activearthfood.com.au/cdn/shop/products/cashew-nuts.jpg?v=1593169570",
+      "https://static.toiimg.com/thumb/msid-103880147,width-960,height-1280,resizemode-6.cms",
+      "https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/10/cashew-nut-nuts-bowl-1296x728-header-1296x728.jpg?w=1155&h=1528"
     ],
     "description": "Crunchy cashews, 200g pack.",
     "size": [1, 1, 1, 1, 1],
@@ -491,11 +492,11 @@
   {
     "id": "34",
     "name": "Walnuts (200g)",
-    "preview": "https://example.com/images/walnuts.jpg",
+    "preview": "https://mdpiblog.wordpress.sciforum.net/wp-content/uploads/sites/4/2023/01/walnuts.jpg",
     "photos": [
-      "https://example.com/images/walnuts1.jpg",
-      "https://example.com/images/walnuts2.jpg",
-      "https://example.com/images/walnuts3.jpg"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFgTBjNlDxjP5064ohXsGJ3ncVORiQ0X6p5wv73Sro2ekleZmDxTtlYggGy-pEffygIn0&usqp=CAU",
+      "https://bulknbits.ca/cdn/shop/products/wallnut-shell.jpg?v=1607884032",
+      "https://media.post.rvohealth.io/wp-content/uploads/2020/08/AN378-Walnuts-Hands-732x549-thumb-732x549.jpg"
     ],
     "description": "Delicious walnuts, 200g pack.",
     "size": [1, 1, 1, 1, 1],
@@ -506,11 +507,11 @@
   {
     "id": "35",
     "name": "Pistachios (200g)",
-    "preview": "https://example.com/images/pistachios.jpg",
+    "preview": "https://satvikk.com/wp-content/uploads/2021/12/Roasted-Salted-Pistachios.jpg",
     "photos": [
-      "https://example.com/images/pistachios1.jpg",
-      "https://example.com/images/pistachios2.jpg",
-      "https://example.com/images/pistachios3.jpg"
+      "https://cdn.britannica.com/76/196076-050-6138D55B/pistachios.jpg",
+      "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/11/benefits_pistachios_GettyImages683864285_Header-1024x575.jpg",
+      "https://cdn.ecommercedns.uk/files/2/236802/5/32647595/pistachio-nuts-without-shells.jpg"
     ],
     "description": "Salted pistachios, 200g pack.",
     "size": [1, 1, 1, 1, 1],
@@ -536,11 +537,11 @@
   {
     "id": "37",
     "name": "Black Pepper (100g)",
-    "preview": "https://example.com/images/black-pepper.jpg",
+    "preview": "https://5.imimg.com/data5/SELLER/Default/2022/11/PE/NF/PN/180152799/black-papper-500x500.jpg",
     "photos": [
-      "https://example.com/images/black-pepper1.jpg",
-      "https://example.com/images/black-pepper2.jpg",
-      "https://example.com/images/black-pepper3.jpg"
+      "https://elthecook.co.in/cdn/shop/products/IMG-3570.jpg?v=1602843781&width=1445",
+      "https://assets.clevelandclinic.org/transform/65ddb397-7835-4b21-b30b-d123be3cb5c8/blackPepper-185067429-770x533-1_jpg",
+      "https://cdn2.stylecraze.com/wp-content/uploads/2013/06/360_21-Amazing-Benefits-Of-Black-Pepper-Kali-Mirch-For-Skin-Hair-And-Health_iStock-469858939.jpg_1.jpg.webp"
     ],
     "description": "Premium black pepper, 100g pack.",
     "size": [1, 1, 1, 1, 1],

@@ -107,7 +107,7 @@ httpRequest.onreadystatechange = function() {
 };
 httpRequest.open(
   "GET",
-  "/API/products.json",
+  "harvesta/API/products.json",
   true
 );
 httpRequest.send();

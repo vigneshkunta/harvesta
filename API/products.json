@@ -160,21 +160,6 @@
     "price": 350
   },
   {
-    "id": "12",
-    "name": "Organic Eggs (Dozen)",
-    "preview": "https://example.com/images/organic-eggs.jpg",
-    "photos": [
-      "https://example.com/images/organic-eggs1.jpg",
-      "https://example.com/images/organic-eggs2.jpg",
-      "https://example.com/images/organic-eggs3.jpg"
-    ],
-    "description": "Certified organic eggs, a dozen per pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "eggs",
-    "brand": "EcoFarm",
-    "price": 450
-  },
-  {
     "id": "13",
     "name": "Brown Eggs (Dozen)",
     "preview": "https://example.com/images/brown-eggs.jpg",
@@ -188,111 +173,6 @@
     "category": "eggs",
     "brand": "Happy Hens",
     "price": 400
-  },
-  {
-    "id": "14",
-    "name": "Duck Eggs (Dozen)",
-    "preview": "https://example.com/images/duck-eggs.jpg",
-    "photos": [
-      "https://example.com/images/duck-eggs1.jpg",
-      "https://example.com/images/duck-eggs2.jpg",
-      "https://example.com/images/duck-eggs3.jpg"
-    ],
-    "description": "Rich and flavorful duck eggs, a dozen per pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "eggs",
-    "brand": "Duck Delight",
-    "price": 550
-  },
-  {
-    "id": "15",
-    "name": "Brown Free-Range Eggs (Half Dozen)",
-    "preview": "https://example.com/images/brown-free-range-eggs.jpg",
-    "photos": [
-      "https://example.com/images/brown-free-range-eggs1.jpg",
-      "https://example.com/images/brown-free-range-eggs2.jpg",
-      "https://example.com/images/brown-free-range-eggs3.jpg"
-    ],
-    "description": "Half dozen of brown free-range eggs.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "eggs",
-    "brand": "Green Farms",
-    "price": 220
-  },
-  {
-    "id": "16",
-    "name": "Egg White Powder (200g)",
-    "preview": "https://example.com/images/egg-white-powder.jpg",
-    "photos": [
-      "https://example.com/images/egg-white-powder1.jpg",
-      "https://example.com/images/egg-white-powder2.jpg",
-      "https://example.com/images/egg-white-powder3.jpg"
-    ],
-    "description": "Dehydrated egg white powder, 200g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "eggs",
-    "brand": "ProEgg",
-    "price": 600
-  },
-  {
-    "id": "17",
-    "name": "Egg Yolk Powder (200g)",
-    "preview": "https://example.com/images/egg-yolk-powder.jpg",
-    "photos": [
-      "https://example.com/images/egg-yolk-powder1.jpg",
-      "https://example.com/images/egg-yolk-powder2.jpg",
-      "https://example.com/images/egg-yolk-powder3.jpg"
-    ],
-    "description": "Dehydrated egg yolk powder, 200g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "eggs",
-    "brand": "ProYolk",
-    "price": 650
-  },
-  {
-    "id": "18",
-    "name": "Organic Liquid Egg Whites (500ml)",
-    "preview": "https://example.com/images/organic-liquid-egg-whites.jpg",
-    "photos": [
-      "https://example.com/images/organic-liquid-egg-whites1.jpg",
-      "https://example.com/images/organic-liquid-egg-whites2.jpg",
-      "https://example.com/images/organic-liquid-egg-whites3.jpg"
-    ],
-    "description": "Organic liquid egg whites, 500ml bottle.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "eggs",
-    "brand": "Nature's Best",
-    "price": 700
-  },
-  {
-    "id": "19",
-    "name": "Organic Whole Eggs (Carton of 30)",
-    "preview": "https://example.com/images/organic-whole-eggs.jpg",
-    "photos": [
-      "https://example.com/images/organic-whole-eggs1.jpg",
-      "https://example.com/images/organic-whole-eggs2.jpg",
-      "https://example.com/images/organic-whole-eggs3.jpg"
-    ],
-    "description": "Carton of 30 organic whole eggs.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "eggs",
-    "brand": "Organic Valley",
-    "price": 1300
-  },
-  {
-    "id": "20",
-    "name": "Quail Eggs (Dozen)",
-    "preview": "https://example.com/images/quail-eggs.jpg",
-    "photos": [
-      "https://example.com/images/quail-eggs1.jpg",
-      "https://example.com/images/quail-eggs2.jpg",
-      "https://example.com/images/quail-eggs3.jpg"
-    ],
-    "description": "Delicate quail eggs, a dozen per pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "eggs",
-    "brand": "Quail Farm",
-    "price": 500
   },
   {
     "id": "21",
@@ -338,126 +218,6 @@
     "category": "vegetables",
     "brand": "Green Valley",
     "price": 180
-  },
-  {
-    "id": "24",
-    "name": "Potatoes - Organic (1kg)",
-    "preview": "https://example.com/images/potatoes.jpg",
-    "photos": [
-      "https://example.com/images/potatoes1.jpg",
-      "https://example.com/images/potatoes2.jpg",
-      "https://example.com/images/potatoes3.jpg"
-    ],
-    "description": "Organic potatoes, 1kg pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "vegetables",
-    "brand": "Farm Fresh",
-    "price": 220
-  },
-  {
-    "id": "25",
-    "name": "Beef Steak - Grass-Fed (500g)",
-    "preview": "https://example.com/images/beef-steak.jpg",
-    "photos": [
-      "https://example.com/images/beef-steak1.jpg",
-      "https://example.com/images/beef-steak2.jpg",
-      "https://example.com/images/beef-steak3.jpg"
-    ],
-    "description": "Grass-fed beef steak, 500g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "meat",
-    "brand": "Farm Fresh",
-    "price": 600
-  },
-  {
-    "id": "26",
-    "name": "Organic Chicken Breast (500g)",
-    "preview": "https://example.com/images/chicken-breast.jpg",
-    "photos": [
-      "https://example.com/images/chicken-breast1.jpg",
-      "https://example.com/images/chicken-breast2.jpg",
-      "https://example.com/images/chicken-breast3.jpg"
-    ],
-    "description": "Tender organic chicken breasts, 500g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "meat",
-    "brand": "EcoFarm",
-    "price": 700
-  },
-  {
-    "id": "27",
-    "name": "Pork Chops (500g)",
-    "preview": "https://example.com/images/pork-chops.jpg",
-    "photos": [
-      "https://example.com/images/pork-chops1.jpg",
-      "https://example.com/images/pork-chops2.jpg",
-      "https://example.com/images/pork-chops3.jpg"
-    ],
-    "description": "Fresh pork chops, 500g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "meat",
-    "brand": "Farm Fresh",
-    "price": 650
-  },
-  {
-    "id": "28",
-    "name": "Lamb Chops (500g)",
-    "preview": "https://example.com/images/lamb-chops.jpg",
-    "photos": [
-      "https://example.com/images/lamb-chops1.jpg",
-      "https://example.com/images/lamb-chops2.jpg",
-      "https://example.com/images/lamb-chops3.jpg"
-    ],
-    "description": "Succulent lamb chops, 500g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "meat",
-    "brand": "EcoFarm",
-    "price": 800
-  },
-  {
-    "id": "29",
-    "name": "Salmon Fillets (500g)",
-    "preview": "https://example.com/images/salmon-fillets.jpg",
-    "photos": [
-      "https://example.com/images/salmon-fillets1.jpg",
-      "https://example.com/images/salmon-fillets2.jpg",
-      "https://example.com/images/salmon-fillets3.jpg"
-    ],
-    "description": "Fresh salmon fillets, 500g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "fish",
-    "brand": "Ocean Fresh",
-    "price": 850
-  },
-  {
-    "id": "30",
-    "name": "Tuna Steaks (500g)",
-    "preview": "https://example.com/images/tuna-steaks.jpg",
-    "photos": [
-      "https://example.com/images/tuna-steaks1.jpg",
-      "https://example.com/images/tuna-steaks2.jpg",
-      "https://example.com/images/tuna-steaks3.jpg"
-    ],
-    "description": "High-quality tuna steaks, 500g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "fish",
-    "brand": "Sea Harvest",
-    "price": 900
-  },
-  {
-    "id": "31",
-    "name": "Mixed Nuts (200g)",
-    "preview": "https://example.com/images/mixed-nuts.jpg",
-    "photos": [
-      "https://example.com/images/mixed-nuts1.jpg",
-      "https://example.com/images/mixed-nuts2.jpg",
-      "https://example.com/images/mixed-nuts3.jpg"
-    ],
-    "description": "A blend of almonds, cashews, and walnuts, 200g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "nuts",
-    "brand": "Nutty Delight",
-    "price": 300
   },
   {
     "id": "32",
@@ -520,21 +280,6 @@
     "price": 380
   },
   {
-    "id": "36",
-    "name": "Ground Cinnamon (100g)",
-    "preview": "https://example.com/images/ground-cinnamon.jpg",
-    "photos": [
-      "https://example.com/images/ground-cinnamon1.jpg",
-      "https://example.com/images/ground-cinnamon2.jpg",
-      "https://example.com/images/ground-cinnamon3.jpg"
-    ],
-    "description": "Organic ground cinnamon, 100g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "spices",
-    "brand": "Spice World",
-    "price": 150
-  },
-  {
     "id": "37",
     "name": "Black Pepper (100g)",
     "preview": "https://5.imimg.com/data5/SELLER/Default/2022/11/PE/NF/PN/180152799/black-papper-500x500.jpg",
@@ -550,21 +295,6 @@
     "price": 180
   },
   {
-    "id": "38",
-    "name": "Turmeric Powder (100g)",
-    "preview": "https://example.com/images/turmeric-powder.jpg",
-    "photos": [
-      "https://example.com/images/turmeric-powder1.jpg",
-      "https://example.com/images/turmeric-powder2.jpg",
-      "https://example.com/images/turmeric-powder3.jpg"
-    ],
-    "description": "Pure turmeric powder, 100g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "spices",
-    "brand": "Spice World",
-    "price": 160
-  },
-  {
     "id": "39",
     "name": "Paprika (100g)",
     "preview": "https://example.com/images/paprika.jpg",
@@ -578,20 +308,5 @@
     "category": "spices",
     "brand": "Spice World",
     "price": 170
-  },
-  {
-    "id": "40",
-    "name": "Sea Salt (250g)",
-    "preview": "https://example.com/images/sea-salt.jpg",
-    "photos": [
-      "https://example.com/images/sea-salt1.jpg",
-      "https://example.com/images/sea-salt2.jpg",
-      "https://example.com/images/sea-salt3.jpg"
-    ],
-    "description": "Natural sea salt, 250g pack.",
-    "size": [1, 1, 1, 1, 1],
-    "category": "spices",
-    "brand": "Salty Sea",
-    "price": 200
   }
 ]

@@ -8,7 +8,7 @@ function dynamicCategorySection(ob) {
 
   let boxLink = document.createElement("a");
 
-  boxLink.href = "/harvesta/contentDetails.html?" + ob.id;
+  boxLink.href = "/contentDetails.html?" + ob.id;
 
 
   let imgTag = document.createElement("img");

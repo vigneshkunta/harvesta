@@ -1,0 +1,596 @@
+[
+    {
+      "id": "1",
+      "name": "Organic Apples",
+      "preview": "https://freshindiaorganics.com/cdn/shop/files/Untitleddesign_16.png?v=1686739530",
+      "photos": [
+        "https://krushikendra.com/image/cache/catalog/NSC/apple%204-500x500.jpg",
+        "https://krushikendra.com/image/cache/catalog/NSC/apple%202-500x500.jpg",
+        "https://krushikendra.com/image/cache/catalog/NSC/apple%204-500x500.jpg"
+      ],
+      "description": "Fresh, organic apples from local farms. Perfectly crisp and sweet.",
+      "size": [1, 1, 1, 1, 1],
+      "category": "Fruits",
+      "brand": "Farm Fresh",
+      "price": 299
+    },
+    {
+      "id": "2",
+      "name": "Organic Bananas",
+      "preview": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSjWBZ-5A2eW7dyUAZQ0RckBtmlyt3WPZ2EFTXq5xcR_khBK4fVvVMaOFFRysMGdWYQ8fUHINf707Ob9MG4V1po-Dgqgsyd1igs4UktmxU4d7S-NYIQOj5trsw",
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQyNqesC03jyxf2vKjvN8bPnVdNMQOb4fIFLpN2hdzeuv5VETEczI7Zi079aRXmcqiwsuNFvcgVZMKSV1hIQwv2C-TB4_Tyuie3X8nF",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ5rPklrrpoKksZHg8XAnJ-5sLE9jIQ2EexG1oMdW-TO2tpd_QGhXG5fY7VorAj_SbXEDfZkeelrUteihiAW1tiJNMU9ZmoCH3SeAl9jegiwYo2jvOuxzA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxMODpERLjBjo2mktMcsPls8kmBibE19MImIw58p5vxHK9LWqQTZaMerjdW4TboOapkHz56nyXXggmVHnkYraa9vnD8L604Ue-IKjv"
+      ],
+      "description": "Ripe and sweet organic bananas, a perfect snack for any time of the day.",
+      "size": [1, 1, 1, 1, 1],
+      "category": "Fruits",
+      "brand": "Farm Fresh",
+      "price": 199
+    },
+    {
+      "id": "3",
+      "name": "Organic Strawberries",
+      "preview": "https://www.bigbasket.com/media/uploads/p/l/40099244_1-fresho-strawberry-organically-grown.jpg",
+      "photos": [
+        "https://naturessoulshop.com/wp-content/uploads/2022/01/Mahabaleshwar-Strawberries-500gm-Available-On-Monday-And-Friday-1.jpeg",
+        "https://naturessoulshop.com/wp-content/uploads/2022/01/Mahabaleshwar-Strawberries-500gm-Pre-Order-Next-Available-on-Friday.jpeg"
+      ],
+      "description": "Sweet and juicy organic strawberries, freshly picked.",
+      "size": [1, 1, 1, 1, 1],
+      "category": "Fruits",
+      "brand": "Farm Fresh",
+      "price": 399
+    },
+    {
+      "id": "4",
+      "name": "Fresh Oranges",
+      "preview": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR5JBzMW4QqCsD7WsTXiF662OiARcRd3_U4TPW6PpV-YXL8Y5dXnRXbK-BK06LK2l34qyWOfERjH-pCCoprGj892hgKp6yeHzkbPDzK5lidTicG4lbttowWOA",
+      "photos": [
+        "https://www.greendna.in/cdn/shop/products/orange6_1024x1024@2x.jpg?v=1572447095",
+        "https://www.greendna.in/cdn/shop/products/nagpur-orange-premium-orange-500x500_300x.jpg?v=1572447193",
+        "https://5.imimg.com/data5/SELLER/Default/2023/11/363960824/XT/EG/RY/134135511/oranges-webp-1000x1000.jpg"
+      ],
+      "description": "Juicy and tangy oranges that are freshly harvested.",
+      "size": [1, 1, 1, 1, 1],
+      "category": "Fruits",
+      "brand": "Farm Fresh",
+      "price": 249
+    },
+    {
+      "id": "5",
+      "name": "Grapes",
+      "preview": "https://seed2plant.in/cdn/shop/files/BlackGrapes_Vitisvinifera_FruitLivePlant-Seed2Plant-2.png?v=1713583055&width=360",
+      "photos": [
+        "https://seed2plant.in/cdn/shop/files/BlackGrapes_Vitisvinifera_FruitLivePlant-Seed2Plant-1.png?v=1713583054&width=360",
+        "https://seed2plant.in/cdn/shop/files/BlackGrapes_Vitisvinifera_FruitLivePlant-Seed2Plant-3.png?v=1713583055&width=360"
+      ],
+      "description": "Fresh grapes with a perfect balance of sweet and tart.",
+      "size": [1, 1, 1, 1, 1],
+      "category": "Fruits",
+      "brand": "Farm Fresh",
+      "price": 349
+    },
+    {
+      "id": "6",
+      "name": "Organic Carrots",
+      "preview": "https://gourmetgarden.in/cdn/shop/products/Carrot_1280x.jpg?v=1704281309",
+      "photos": [
+        "https://www.bigbasket.com/media/uploads/p/l/10000270_17-fresho-carrot-ooty.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000270-4_3-fresho-carrot-ooty.jpg",
+        "https://cdn.dotpe.in/longtail/store-items/8024302/9jbLeGtL.webp"
+      ],
+      "description": "Crisp and crunchy organic carrots, grown without pesticides.",
+      "size": [1, 1, 1, 1, 1],
+      "category": "Vegetables",
+      "brand": "Farm Fresh",
+      "price": 179
+    },
+    {
+      "id": "7",
+      "name": "Fresh Spinach",
+      "preview": "https://example.com/images/fresh-spinach.jpg",
+      "photos": [
+        "https://example.com/images/fresh-spinach-1.jpg",
+        "https://example.com/images/fresh-spinach-2.jpg"
+      ],
+      "description": "Green and nutritious spinach, perfect for salads and cooking.",
+      "size": [1, 1, 1, 1, 1],
+      "category": "Vegetables",
+      "brand": "Farm Fresh",
+      "price": 249
+    },
+    {
+      "id": "8",
+      "name": "Organic Bell Peppers",
+      "preview": "https://example.com/images/organic-bell-peppers.jpg",
+      "photos": [
+        "https://example.com/images/organic-bell-peppers-1.jpg",
+        "https://example.com/images/organic-bell-peppers-2.jpg"
+      ],
+      "description": "Colorful and crunchy bell peppers, rich in vitamins.",
+      "size": [1, 1, 1, 1, 1],
+      "category": "Vegetables",
+      "brand": "Farm Fresh",
+      "price": 299
+    },
+    {
+      "id": "9",
+      "name": "Fresh Broccoli",
+      "preview": "https://example.com/images/fresh-broccoli.jpg",
+      "photos": [
+        "https://example.com/images/fresh-broccoli-1.jpg",
+        "https://example.com/images/fresh-broccoli-2.jpg"
+      ],
+      "description": "Nutrient-dense broccoli, ideal for a healthy diet.",
+      "size": [1, 1, 1, 1, 1],
+      "category": "Vegetables",
+      "brand": "Farm Fresh",
+      "price": 219
+    },
+    {
+      "id": "10",
+      "name": "Organic Potatoes",
+      "preview": "https://example.com/images/organic-potatoes.jpg",
+      "photos": [
+        "https://example.com/images/organic-potatoes-1.jpg",
+        "https://example.com/images/organic-potatoes-2.jpg"
+      ],
+      "description": "Versatile organic potatoes, perfect for various dishes.",
+      "size": [1, 1, 1, 1, 1],
+      "category": "Vegetables",
+      "brand": "Farm Fresh",
+      "price": 199
+    },
+  {
+    "id": "11",
+    "name": "Eggs - Free Range (Dozen)",
+    "preview": "https://example.com/images/eggs.jpg",
+    "photos": [
+      "https://example.com/images/eggs1.jpg",
+      "https://example.com/images/eggs2.jpg",
+      "https://example.com/images/eggs3.jpg"
+    ],
+    "description": "Fresh free-range eggs, a dozen per pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "eggs",
+    "brand": "Farm Fresh",
+    "price": 350
+  },
+  {
+    "id": "12",
+    "name": "Organic Eggs (Dozen)",
+    "preview": "https://example.com/images/organic-eggs.jpg",
+    "photos": [
+      "https://example.com/images/organic-eggs1.jpg",
+      "https://example.com/images/organic-eggs2.jpg",
+      "https://example.com/images/organic-eggs3.jpg"
+    ],
+    "description": "Certified organic eggs, a dozen per pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "eggs",
+    "brand": "EcoFarm",
+    "price": 450
+  },
+  {
+    "id": "13",
+    "name": "Brown Eggs (Dozen)",
+    "preview": "https://example.com/images/brown-eggs.jpg",
+    "photos": [
+      "https://example.com/images/brown-eggs1.jpg",
+      "https://example.com/images/brown-eggs2.jpg",
+      "https://example.com/images/brown-eggs3.jpg"
+    ],
+    "description": "Brown eggs from pasture-raised hens, a dozen per pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "eggs",
+    "brand": "Happy Hens",
+    "price": 400
+  },
+  {
+    "id": "14",
+    "name": "Duck Eggs (Dozen)",
+    "preview": "https://example.com/images/duck-eggs.jpg",
+    "photos": [
+      "https://example.com/images/duck-eggs1.jpg",
+      "https://example.com/images/duck-eggs2.jpg",
+      "https://example.com/images/duck-eggs3.jpg"
+    ],
+    "description": "Rich and flavorful duck eggs, a dozen per pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "eggs",
+    "brand": "Duck Delight",
+    "price": 550
+  },
+  {
+    "id": "15",
+    "name": "Brown Free-Range Eggs (Half Dozen)",
+    "preview": "https://example.com/images/brown-free-range-eggs.jpg",
+    "photos": [
+      "https://example.com/images/brown-free-range-eggs1.jpg",
+      "https://example.com/images/brown-free-range-eggs2.jpg",
+      "https://example.com/images/brown-free-range-eggs3.jpg"
+    ],
+    "description": "Half dozen of brown free-range eggs.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "eggs",
+    "brand": "Green Farms",
+    "price": 220
+  },
+  {
+    "id": "16",
+    "name": "Egg White Powder (200g)",
+    "preview": "https://example.com/images/egg-white-powder.jpg",
+    "photos": [
+      "https://example.com/images/egg-white-powder1.jpg",
+      "https://example.com/images/egg-white-powder2.jpg",
+      "https://example.com/images/egg-white-powder3.jpg"
+    ],
+    "description": "Dehydrated egg white powder, 200g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "eggs",
+    "brand": "ProEgg",
+    "price": 600
+  },
+  {
+    "id": "17",
+    "name": "Egg Yolk Powder (200g)",
+    "preview": "https://example.com/images/egg-yolk-powder.jpg",
+    "photos": [
+      "https://example.com/images/egg-yolk-powder1.jpg",
+      "https://example.com/images/egg-yolk-powder2.jpg",
+      "https://example.com/images/egg-yolk-powder3.jpg"
+    ],
+    "description": "Dehydrated egg yolk powder, 200g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "eggs",
+    "brand": "ProYolk",
+    "price": 650
+  },
+  {
+    "id": "18",
+    "name": "Organic Liquid Egg Whites (500ml)",
+    "preview": "https://example.com/images/organic-liquid-egg-whites.jpg",
+    "photos": [
+      "https://example.com/images/organic-liquid-egg-whites1.jpg",
+      "https://example.com/images/organic-liquid-egg-whites2.jpg",
+      "https://example.com/images/organic-liquid-egg-whites3.jpg"
+    ],
+    "description": "Organic liquid egg whites, 500ml bottle.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "eggs",
+    "brand": "Nature's Best",
+    "price": 700
+  },
+  {
+    "id": "19",
+    "name": "Organic Whole Eggs (Carton of 30)",
+    "preview": "https://example.com/images/organic-whole-eggs.jpg",
+    "photos": [
+      "https://example.com/images/organic-whole-eggs1.jpg",
+      "https://example.com/images/organic-whole-eggs2.jpg",
+      "https://example.com/images/organic-whole-eggs3.jpg"
+    ],
+    "description": "Carton of 30 organic whole eggs.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "eggs",
+    "brand": "Organic Valley",
+    "price": 1300
+  },
+  {
+    "id": "20",
+    "name": "Quail Eggs (Dozen)",
+    "preview": "https://example.com/images/quail-eggs.jpg",
+    "photos": [
+      "https://example.com/images/quail-eggs1.jpg",
+      "https://example.com/images/quail-eggs2.jpg",
+      "https://example.com/images/quail-eggs3.jpg"
+    ],
+    "description": "Delicate quail eggs, a dozen per pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "eggs",
+    "brand": "Quail Farm",
+    "price": 500
+  },
+  {
+    "id": "21",
+    "name": "Eggplant - Organic (500g)",
+    "preview": "https://example.com/images/eggplant.jpg",
+    "photos": [
+      "https://example.com/images/eggplant1.jpg",
+      "https://example.com/images/eggplant2.jpg",
+      "https://example.com/images/eggplant3.jpg"
+    ],
+    "description": "Fresh organic eggplants, 500g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "vegetables",
+    "brand": "Farm Fresh",
+    "price": 150
+  },
+  {
+    "id": "22",
+    "name": "Carrots - Organic (1kg)",
+    "preview": "https://example.com/images/carrots.jpg",
+    "photos": [
+      "https://example.com/images/carrots1.jpg",
+      "https://example.com/images/carrots2.jpg",
+      "https://example.com/images/carrots3.jpg"
+    ],
+    "description": "Crunchy organic carrots, 1kg pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "vegetables",
+    "brand": "EcoFarm",
+    "price": 200
+  },
+  {
+    "id": "23",
+    "name": "Spinach - Organic (500g)",
+    "preview": "https://example.com/images/spinach.jpg",
+    "photos": [
+      "https://example.com/images/spinach1.jpg",
+      "https://example.com/images/spinach2.jpg",
+      "https://example.com/images/spinach3.jpg"
+    ],
+    "description": "Fresh organic spinach, 500g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "vegetables",
+    "brand": "Green Valley",
+    "price": 180
+  },
+  {
+    "id": "24",
+    "name": "Potatoes - Organic (1kg)",
+    "preview": "https://example.com/images/potatoes.jpg",
+    "photos": [
+      "https://example.com/images/potatoes1.jpg",
+      "https://example.com/images/potatoes2.jpg",
+      "https://example.com/images/potatoes3.jpg"
+    ],
+    "description": "Organic potatoes, 1kg pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "vegetables",
+    "brand": "Farm Fresh",
+    "price": 220
+  },
+  {
+    "id": "25",
+    "name": "Beef Steak - Grass-Fed (500g)",
+    "preview": "https://example.com/images/beef-steak.jpg",
+    "photos": [
+      "https://example.com/images/beef-steak1.jpg",
+      "https://example.com/images/beef-steak2.jpg",
+      "https://example.com/images/beef-steak3.jpg"
+    ],
+    "description": "Grass-fed beef steak, 500g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "meat",
+    "brand": "Farm Fresh",
+    "price": 600
+  },
+  {
+    "id": "26",
+    "name": "Organic Chicken Breast (500g)",
+    "preview": "https://example.com/images/chicken-breast.jpg",
+    "photos": [
+      "https://example.com/images/chicken-breast1.jpg",
+      "https://example.com/images/chicken-breast2.jpg",
+      "https://example.com/images/chicken-breast3.jpg"
+    ],
+    "description": "Tender organic chicken breasts, 500g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "meat",
+    "brand": "EcoFarm",
+    "price": 700
+  },
+  {
+    "id": "27",
+    "name": "Pork Chops (500g)",
+    "preview": "https://example.com/images/pork-chops.jpg",
+    "photos": [
+      "https://example.com/images/pork-chops1.jpg",
+      "https://example.com/images/pork-chops2.jpg",
+      "https://example.com/images/pork-chops3.jpg"
+    ],
+    "description": "Fresh pork chops, 500g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "meat",
+    "brand": "Farm Fresh",
+    "price": 650
+  },
+  {
+    "id": "28",
+    "name": "Lamb Chops (500g)",
+    "preview": "https://example.com/images/lamb-chops.jpg",
+    "photos": [
+      "https://example.com/images/lamb-chops1.jpg",
+      "https://example.com/images/lamb-chops2.jpg",
+      "https://example.com/images/lamb-chops3.jpg"
+    ],
+    "description": "Succulent lamb chops, 500g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "meat",
+    "brand": "EcoFarm",
+    "price": 800
+  },
+  {
+    "id": "29",
+    "name": "Salmon Fillets (500g)",
+    "preview": "https://example.com/images/salmon-fillets.jpg",
+    "photos": [
+      "https://example.com/images/salmon-fillets1.jpg",
+      "https://example.com/images/salmon-fillets2.jpg",
+      "https://example.com/images/salmon-fillets3.jpg"
+    ],
+    "description": "Fresh salmon fillets, 500g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "fish",
+    "brand": "Ocean Fresh",
+    "price": 850
+  },
+  {
+    "id": "30",
+    "name": "Tuna Steaks (500g)",
+    "preview": "https://example.com/images/tuna-steaks.jpg",
+    "photos": [
+      "https://example.com/images/tuna-steaks1.jpg",
+      "https://example.com/images/tuna-steaks2.jpg",
+      "https://example.com/images/tuna-steaks3.jpg"
+    ],
+    "description": "High-quality tuna steaks, 500g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "fish",
+    "brand": "Sea Harvest",
+    "price": 900
+  },
+  {
+    "id": "31",
+    "name": "Mixed Nuts (200g)",
+    "preview": "https://example.com/images/mixed-nuts.jpg",
+    "photos": [
+      "https://example.com/images/mixed-nuts1.jpg",
+      "https://example.com/images/mixed-nuts2.jpg",
+      "https://example.com/images/mixed-nuts3.jpg"
+    ],
+    "description": "A blend of almonds, cashews, and walnuts, 200g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "nuts",
+    "brand": "Nutty Delight",
+    "price": 300
+  },
+  {
+    "id": "32",
+    "name": "Almonds (200g)",
+    "preview": "https://example.com/images/almonds.jpg",
+    "photos": [
+      "https://example.com/images/almonds1.jpg",
+      "https://example.com/images/almonds2.jpg",
+      "https://example.com/images/almonds3.jpg"
+    ],
+    "description": "Raw almonds, 200g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "nuts",
+    "brand": "Nutty Delight",
+    "price": 350
+  },
+  {
+    "id": "33",
+    "name": "Cashews (200g)",
+    "preview": "https://example.com/images/cashews.jpg",
+    "photos": [
+      "https://example.com/images/cashews1.jpg",
+      "https://example.com/images/cashews2.jpg",
+      "https://example.com/images/cashews3.jpg"
+    ],
+    "description": "Crunchy cashews, 200g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "nuts",
+    "brand": "Nutty Delight",
+    "price": 400
+  },
+  {
+    "id": "34",
+    "name": "Walnuts (200g)",
+    "preview": "https://example.com/images/walnuts.jpg",
+    "photos": [
+      "https://example.com/images/walnuts1.jpg",
+      "https://example.com/images/walnuts2.jpg",
+      "https://example.com/images/walnuts3.jpg"
+    ],
+    "description": "Delicious walnuts, 200g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "nuts",
+    "brand": "Nutty Delight",
+    "price": 350
+  },
+  {
+    "id": "35",
+    "name": "Pistachios (200g)",
+    "preview": "https://example.com/images/pistachios.jpg",
+    "photos": [
+      "https://example.com/images/pistachios1.jpg",
+      "https://example.com/images/pistachios2.jpg",
+      "https://example.com/images/pistachios3.jpg"
+    ],
+    "description": "Salted pistachios, 200g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "nuts",
+    "brand": "Nutty Delight",
+    "price": 380
+  },
+  {
+    "id": "36",
+    "name": "Ground Cinnamon (100g)",
+    "preview": "https://example.com/images/ground-cinnamon.jpg",
+    "photos": [
+      "https://example.com/images/ground-cinnamon1.jpg",
+      "https://example.com/images/ground-cinnamon2.jpg",
+      "https://example.com/images/ground-cinnamon3.jpg"
+    ],
+    "description": "Organic ground cinnamon, 100g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "spices",
+    "brand": "Spice World",
+    "price": 150
+  },
+  {
+    "id": "37",
+    "name": "Black Pepper (100g)",
+    "preview": "https://example.com/images/black-pepper.jpg",
+    "photos": [
+      "https://example.com/images/black-pepper1.jpg",
+      "https://example.com/images/black-pepper2.jpg",
+      "https://example.com/images/black-pepper3.jpg"
+    ],
+    "description": "Premium black pepper, 100g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "spices",
+    "brand": "Spice World",
+    "price": 180
+  },
+  {
+    "id": "38",
+    "name": "Turmeric Powder (100g)",
+    "preview": "https://example.com/images/turmeric-powder.jpg",
+    "photos": [
+      "https://example.com/images/turmeric-powder1.jpg",
+      "https://example.com/images/turmeric-powder2.jpg",
+      "https://example.com/images/turmeric-powder3.jpg"
+    ],
+    "description": "Pure turmeric powder, 100g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "spices",
+    "brand": "Spice World",
+    "price": 160
+  },
+  {
+    "id": "39",
+    "name": "Paprika (100g)",
+    "preview": "https://example.com/images/paprika.jpg",
+    "photos": [
+      "https://example.com/images/paprika1.jpg",
+      "https://example.com/images/paprika2.jpg",
+      "https://example.com/images/paprika3.jpg"
+    ],
+    "description": "Sweet paprika, 100g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "spices",
+    "brand": "Spice World",
+    "price": 170
+  },
+  {
+    "id": "40",
+    "name": "Sea Salt (250g)",
+    "preview": "https://example.com/images/sea-salt.jpg",
+    "photos": [
+      "https://example.com/images/sea-salt1.jpg",
+      "https://example.com/images/sea-salt2.jpg",
+      "https://example.com/images/sea-salt3.jpg"
+    ],
+    "description": "Natural sea salt, 250g pack.",
+    "size": [1, 1, 1, 1, 1],
+    "category": "spices",
+    "brand": "Salty Sea",
+    "price": 200
+  }
+]

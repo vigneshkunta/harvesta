@@ -143,6 +143,6 @@ let httpRequest = new XMLHttpRequest()
     }
 }
 
-httpRequest.open('GET', "/API/products.json", true)
+httpRequest.open('GET', "harvesta/API/products.json", true)
 
 httpRequest.send()  

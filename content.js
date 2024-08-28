@@ -81,7 +81,7 @@ httpRequest.onreadystatechange = function() {
       } else if (category === "meat") {
           console.log(item);
           containerMeat.appendChild(dynamicCategorySection(item));
-      } else if (category === "fish") {
+      } else if (category === "fishes") {
           console.log(item);
           containerFish.appendChild(dynamicCategorySection(item));
       } else if (category === "nuts") {

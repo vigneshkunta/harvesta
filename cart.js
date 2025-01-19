@@ -135,7 +135,7 @@ httpRequest.onreadystatechange = function()
         }
 }
 
-httpRequest.open('GET', "https://vignesh-yadav.github.io/harvesta/API/products.json", true)
+httpRequest.open('GET', "https://vigneshkunta.github.io/harvesta/API/products.json", true)
 httpRequest.send()
 
 
